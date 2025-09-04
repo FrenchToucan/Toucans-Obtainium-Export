@@ -42,44 +42,61 @@ Semi-automatic Method
 Enjoy your FOSS app journey!
 
 ## App List
+
+### 🔐 Security & Privacy
 -   🔐 **2FA**: [Aegis](https://github.com/beemdevelopment/Aegis)
--   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod)
--   📱 **ADB Shell**: [aShell You](https://github.com/lionzxy/aShell)
--   🎨 **Icon Pack**: [Delta Icons](https://github.com/Delta-Icons/android) | [Arcticons](https://github.com/Donnnno/Arcticons)
--   🎨 **Weather Icon Pack**: [Delta Icon Pack for Breezy Weather](https://github.com/MatthewZMD/Delta)
--   🛍️ **Play Store**: [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) – Replacement for Play Store
--   🔑 **Password Manager (Bitwarden)**: [Bitwarden](https://github.com/bitwarden/mobile) – Official client | [Keyguard](https://github.com/AChep/keyguard-app) – Alternative Bitwarden client
--   🌦️ **Weather**: [Breezy Weather](https://github.com/MatthewZMD/BreezyWeather) – Weather app with widgets
--   🎥 **Streaming**: [CloudStream](https://github.com/LagradOst/CloudStream-3) – Movie/TV show streamer
--   📅 **Sync**: [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – CalDAV/CardDAV/WebDAV synchronization
--   🌍 **Browser**: [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
--   ⌨️ **Keyboard**: [Heliboard](https://github.com/GboardThemes/Heliboard) – Swipe typing keyboard
--   🏠 **Smart Home**: [Home Assistant](https://github.com/home-assistant/android) – Home automation (requires Home Assistant instance)
--   📸 **Photos**: [Immich](https://github.com/immich-app/immich) – Google Photos clone (sort of) (requires Immich instance)
--   📝 **Notes & Tasks**: [jtx Board](https://github.com/jtxBoard/jtxBoard)
--   🚀 **Launcher**: [Lawnchair](https://github.com/Goooler/LawnchairRelease) – Lawnchair signed builds
--   🎧 **Audiobooks**: [Lissen](https://github.com/JonnyBurger/lissen) – Alternative Audiobookshelf client (requires Audiobookshelf instance)
--   📁 **File Manager**: [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/)
--   📱 **GmsCore**: [MicroG](https://github.com/microg/GmsCore) – GmsCore from the microG team (two packages, root no longer required for full experience) | [MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore if you only need it for YouTube Revanced and YouTube Music Revanced
--   📦 **FOSS Package Manager**: [Obtainium](https://github.com/ImranR98/Obtainium) – Download apks from Github and other services
--   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler)
+-   🔑 **Password Manager**: [Bitwarden](https://github.com/bitwarden/mobile) – Official client | [Keyguard](https://github.com/AChep/keyguard-app) – Alternative Bitwarden client
 -   🔒 **Private DNS Tile**: [Private DNS Quick Toggle](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) – Quick Settings tile for private DNS
--   ☕ **Keep Awake Tile**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick Settings tile to keep the screen awake
--   👾 **Reddit Client**: [Reddit ReVanced Extended](https://github.com/NoName-exe/revanced-mnml) – Better version of the Reddit client
--   🏢 **Work Profile**: [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Work profile manager
--   ⚙️ **Elevated Access**: [Shizuku](https://github.com/RikkaApps/Shizuku) – Elevated access provider
--   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
+
+### 🌐 Web & Communication
+-   🌍 **Browser**: [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
 -   💬 **Telegram**: [Telegram](https://telegram.org/) – Official client | [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - Unofficial Telegram client with additional features
--   🎨 **Theming**: [Telemone](https://github.com/ananpay/tilemone) – Telegram themer (not necessary for Cherrygram)
--   🎵 **Music**: [Tempo](https://github.com/CappielloAntonio/tempo) – Music app (requires Subsonic instance)
 -   📧 **Email**: [Thunderbird](https://github.com/thundermail/thunderbird) – Email client
--   🗂️ **Cloud Storage**: [Nextcloud](https://github.com/nextcloud/android) – Cloud file sync & collaboration (requires Nextcloud instance)
--   🎥 **Media Player**: [VLC](https://github.com/videolan/vlc-android)
+-   👾 **Reddit Client**: [Reddit ReVanced Extended](https://github.com/NoName-exe/revanced-mnml) – Better version of the Reddit client
+-   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
+
+### 🎵 Media & Entertainment
+-   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod)
+-   🎵 **Music**: [Tempo](https://github.com/CappielloAntonio/tempo) – Music app (requires Subsonic instance)
+-   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler)
 -   🎵 **YouTube Music**: [YouTube Music ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube Music client
 -   📺 **YouTube**: [YouTube ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube client
--   ☕ **Screen Keep Awake**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick tile for screen awake
--   🎨 **System-wide Icon Theming**: [Global Icon Pack](https://github.com/RIchardLuo0/Global-Icon-Pack) – Apply icon packs globally (root, lsposed required)
+-   🎥 **Streaming**: [CloudStream](https://github.com/LagradOst/CloudStream-3) – Movie/TV show streamer
+-   🎥 **Media Player**: [VLC](https://github.com/videolan/vlc-android)
+-   🎧 **Audiobooks**: [Lissen](https://github.com/JonnyBurger/lissen) – Alternative Audiobookshelf client (requires Audiobookshelf instance)
 -   📚 **Comic Reader**: [Komelia](https://github.com/Snd-R/Komelia) – (requires Komga or Kavita instance)
+
+### 📱 App Management & System
+-   🛍️ **Play Store**: [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) – Replacement for Play Store
+-   📦 **FOSS Package Manager**: [Obtainium](https://github.com/ImranR98/Obtainium) – Download apks from Github and other services
+-   🗑️ **De-Bloater**: [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) – Remove unwanted system apps (requires root)
+-   🦾 **Stop Play Store Updates**: [Zygisk Detach App](https://github.com/j-hc/zygisk-detach-app) – Detach apps from Play Store (requires Magisk/KernelSU module [here](https://github.com/j-hc/zygisk-detach))
+-   📱 **GmsCore**: [MicroG](https://github.com/microg/GmsCore) – GmsCore from the microG team (two packages, root no longer required for full experience) | [MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore if you only need it for YouTube Revanced and YouTube Music Revanced
+-   🏢 **Work Profile**: [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Work profile manager
+-   ⚙️ **Elevated Access**: [Shizuku](https://github.com/RikkaApps/Shizuku) – Elevated access provider
+-   📱 **ADB Shell**: [aShell You](https://github.com/lionzxy/aShell)
+
+### 🎨 Customization & Theming
+-   🚀 **Launcher**: [Lawnchair](https://github.com/Goooler/LawnchairRelease) – Lawnchair signed builds
 -   🚀 **Pixel Launcher Improvements**: [PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced) – Enhance Pixel Launcher (root,lsposed required)
--   🔒 **Private DNS Toggle**: [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) – Quick toggle for Private DNS
--   🦾 **Stop Play Store Updates**: [Zygisk Detach App](https://github.com/j-hc/zygisk-detach-app) – Detach apps from Play Store (requires Magisk/KernelSU module [here](https://github.com/j-hc/zygisk-detach)) 
+-   🎨 **Icon Pack**: [Delta Icons](https://github.com/Delta-Icons/android) | [Arcticons](https://github.com/Donnnno/Arcticons)
+-   🎨 **Weather Icon Pack**: [Delta Icon Pack for Breezy Weather](https://github.com/MatthewZMD/Delta)
+-   🎨 **System-wide Icon Theming**: [Global Icon Pack](https://github.com/RIchardLuo0/Global-Icon-Pack) – Apply icon packs globally (root, lsposed required)
+-   🎨 **Theming**: [Telemone](https://github.com/ananpay/tilemone) – Telegram themer (not necessary for Cherrygram)
+
+### 📁 File Management & Productivity
+-   📁 **File Manager**: [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/)
+-   📝 **Notes & Tasks**: [jtx Board](https://github.com/jtxBoard/jtxBoard)
+-   📅 **Sync**: [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – CalDAV/CardDAV/WebDAV synchronization
+-   🗂️ **Cloud Storage**: [Nextcloud](https://github.com/nextcloud/android) – Cloud file sync & collaboration (requires Nextcloud instance)
+
+### 🌦️ Weather & Location
+-   🌦️ **Weather**: [Breezy Weather](https://github.com/MatthewZMD/BreezyWeather) – Weather app with widgets
+
+### 🏠 Self-Hosted Services
+-   🏠 **Smart Home**: [Home Assistant](https://github.com/home-assistant/android) – Home automation (requires Home Assistant instance)
+-   📸 **Photos**: [Immich](https://github.com/immich-app/immich) – Google Photos clone (sort of) (requires Immich instance)
+
+### ⌨️ Input & Utilities
+-   ⌨️ **Keyboard**: [Heliboard](https://github.com/GboardThemes/Heliboard) – Swipe typing keyboard
+-   ☕ **Keep Awake Tile**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick Settings tile to keep the screen awake 
