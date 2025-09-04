@@ -46,7 +46,6 @@ Enjoy your FOSS app journey!
 ### 🔐 Security & Privacy
 -   🔐 **2FA**: [Aegis](https://github.com/beemdevelopment/Aegis)
 -   🔑 **Password Manager**: [Bitwarden](https://github.com/bitwarden/mobile) – Official client | [Keyguard](https://github.com/AChep/keyguard-app) – Alternative Bitwarden client
--   🔒 **Private DNS Tile**: [Private DNS Quick Toggle](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) – Quick Settings tile for private DNS
 
 ### 🌐 Web & Communication
 -   🌍 **Browser**: [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
@@ -88,7 +87,6 @@ Enjoy your FOSS app journey!
 -   📁 **File Manager**: [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/)
 -   📝 **Notes & Tasks**: [jtx Board](https://github.com/jtxBoard/jtxBoard)
 -   📅 **Sync**: [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – CalDAV/CardDAV/WebDAV synchronization
--   🗂️ **Cloud Storage**: [Nextcloud](https://github.com/nextcloud/android) – Cloud file sync & collaboration (requires Nextcloud instance)
 
 ### 🌦️ Weather & Location
 -   🌦️ **Weather**: [Breezy Weather](https://github.com/MatthewZMD/BreezyWeather) – Weather app with widgets
@@ -96,7 +94,9 @@ Enjoy your FOSS app journey!
 ### 🏠 Self-Hosted Services
 -   🏠 **Smart Home**: [Home Assistant](https://github.com/home-assistant/android) – Home automation (requires Home Assistant instance)
 -   📸 **Photos**: [Immich](https://github.com/immich-app/immich) – Google Photos clone (sort of) (requires Immich instance)
+-   🗂️ **Cloud Storage**: [Nextcloud](https://github.com/nextcloud/android) – Cloud file sync & collaboration (requires Nextcloud instance)
 
 ### ⌨️ Input & Utilities
 -   ⌨️ **Keyboard**: [Heliboard](https://github.com/GboardThemes/Heliboard) – Swipe typing keyboard
+-   🔒 **Private DNS Tile**: [Private DNS Quick Toggle](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) – Quick Settings tile for private DNS
 -   ☕ **Keep Awake Tile**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick Settings tile to keep the screen awake 
