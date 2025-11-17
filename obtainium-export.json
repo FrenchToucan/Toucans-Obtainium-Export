@@ -5,13 +5,13 @@
             "url": "https://f-droid.org/packages/org.mozilla.fennec_fdroid",
             "author": "F-Droid official",
             "name": "Fennec",
-            "installedVersion": "144.0.0",
-            "latestVersion": "144.0.0",
-            "apkUrls": "[[\"org.mozilla.fennec_fdroid_1440020.apk\",\"https://f-droid.org/repo/org.mozilla.fennec_fdroid_1440020.apk\"]]",
+            "installedVersion": "145.0.0",
+            "latestVersion": "145.0.0",
+            "apkUrls": "[[\"org.mozilla.fennec_fdroid_1450020.apk\",\"https://f-droid.org/repo/org.mozilla.fennec_fdroid_1450020.apk\"]]",
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":true,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1762455790356116,
+            "lastUpdateCheck": 1763347162187357,
             "pinned": false,
             "categories": [
                 "Browser"
@@ -26,19 +26,19 @@
             "url": "https://github.com/ImranR98/Obtainium",
             "author": "ImranR98",
             "name": "Obtainium",
-            "installedVersion": "v1.2.7",
-            "latestVersion": "v1.2.7",
-            "apkUrls": "[[\"app-arm64-v8a-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/303257215\"]]",
-            "otherAssetUrls": "[[\"app-arm64-v8a-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/303257198\"],[\"app-arm64-v8a-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-arm64-v8a-fdroid-release.apk.idsig\"],[\"app-arm64-v8a-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-arm64-v8a-fdroid-release.apk.sha256\"],[\"app-arm64-v8a-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-arm64-v8a-fdroid-release.apk.sha256.sig\"],[\"app-arm64-v8a-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-arm64-v8a-release.apk.idsig\"],[\"app-arm64-v8a-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-arm64-v8a-release.apk.sha256\"],[\"app-arm64-v8a-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-arm64-v8a-release.apk.sha256.sig\"],[\"app-armeabi-v7a-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/303257233\"],[\"app-armeabi-v7a-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-armeabi-v7a-fdroid-release.apk.idsig\"],[\"app-armeabi-v7a-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-armeabi-v7a-fdroid-release.apk.sha256\"],[\"app-armeabi-v7a-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-armeabi-v7a-fdroid-release.apk.sha256.sig\"],[\"app-armeabi-v7a-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/303257250\"],[\"app-armeabi-v7a-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-armeabi-v7a-release.apk.idsig\"],[\"app-armeabi-v7a-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-armeabi-v7a-release.apk.sha256\"],[\"app-armeabi-v7a-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-armeabi-v7a-release.apk.sha256.sig\"],[\"app-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/303257264\"],[\"app-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-fdroid-release.apk.idsig\"],[\"app-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-fdroid-release.apk.sha256\"],[\"app-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-fdroid-release.apk.sha256.sig\"],[\"app-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/303257280\"],[\"app-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-release.apk.idsig\"],[\"app-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-release.apk.sha256\"],[\"app-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-release.apk.sha256.sig\"],[\"app-x86_64-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/303257298\"],[\"app-x86_64-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-x86_64-fdroid-release.apk.idsig\"],[\"app-x86_64-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-x86_64-fdroid-release.apk.sha256\"],[\"app-x86_64-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-x86_64-fdroid-release.apk.sha256.sig\"],[\"app-x86_64-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/303257311\"],[\"app-x86_64-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-x86_64-release.apk.idsig\"],[\"app-x86_64-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-x86_64-release.apk.sha256\"],[\"app-x86_64-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.7/app-x86_64-release.apk.sha256.sig\"],[\"v1.2.7.tar.gz\",\"https://api.github.com/repos/ImranR98/Obtainium/tarball/v1.2.7\"],[\"v1.2.7.zip\",\"https://api.github.com/repos/ImranR98/Obtainium/zipball/v1.2.7\"]]",
+            "installedVersion": "v1.2.8",
+            "latestVersion": "v1.2.8",
+            "apkUrls": "[[\"app-arm64-v8a-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/314168583\"]]",
+            "otherAssetUrls": "[[\"app-arm64-v8a-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/314168576\"],[\"app-arm64-v8a-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-arm64-v8a-fdroid-release.apk.idsig\"],[\"app-arm64-v8a-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-arm64-v8a-fdroid-release.apk.sha256\"],[\"app-arm64-v8a-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-arm64-v8a-fdroid-release.apk.sha256.sig\"],[\"app-arm64-v8a-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-arm64-v8a-release.apk.idsig\"],[\"app-arm64-v8a-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-arm64-v8a-release.apk.sha256\"],[\"app-arm64-v8a-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-arm64-v8a-release.apk.sha256.sig\"],[\"app-armeabi-v7a-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/314168596\"],[\"app-armeabi-v7a-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-armeabi-v7a-fdroid-release.apk.idsig\"],[\"app-armeabi-v7a-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-armeabi-v7a-fdroid-release.apk.sha256\"],[\"app-armeabi-v7a-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-armeabi-v7a-fdroid-release.apk.sha256.sig\"],[\"app-armeabi-v7a-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/314168601\"],[\"app-armeabi-v7a-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-armeabi-v7a-release.apk.idsig\"],[\"app-armeabi-v7a-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-armeabi-v7a-release.apk.sha256\"],[\"app-armeabi-v7a-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-armeabi-v7a-release.apk.sha256.sig\"],[\"app-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/314168606\"],[\"app-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-fdroid-release.apk.idsig\"],[\"app-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-fdroid-release.apk.sha256\"],[\"app-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-fdroid-release.apk.sha256.sig\"],[\"app-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/314168621\"],[\"app-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-release.apk.idsig\"],[\"app-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-release.apk.sha256\"],[\"app-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-release.apk.sha256.sig\"],[\"app-x86_64-fdroid-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/314168629\"],[\"app-x86_64-fdroid-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-x86_64-fdroid-release.apk.idsig\"],[\"app-x86_64-fdroid-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-x86_64-fdroid-release.apk.sha256\"],[\"app-x86_64-fdroid-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-x86_64-fdroid-release.apk.sha256.sig\"],[\"app-x86_64-release.apk\",\"https://api.github.com/repos/ImranR98/Obtainium/releases/assets/314168637\"],[\"app-x86_64-release.apk.idsig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-x86_64-release.apk.idsig\"],[\"app-x86_64-release.apk.sha256\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-x86_64-release.apk.sha256\"],[\"app-x86_64-release.apk.sha256.sig\",\"https://github.com/ImranR98/Obtainium/releases/download/v1.2.8/app-x86_64-release.apk.sha256.sig\"],[\"v1.2.8.tar.gz\",\"https://api.github.com/repos/ImranR98/Obtainium/tarball/v1.2.8\"],[\"v1.2.8.zip\",\"https://api.github.com/repos/ImranR98/Obtainium/zipball/v1.2.8\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"app-arm64-v8a-release\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762453849371197,
+            "lastUpdateCheck": 1763347162032455,
             "pinned": false,
             "categories": [
                 "App Management"
             ],
-            "releaseDate": 1760236675000000,
-            "changeLog": "## What's Changed\r\n* By @ImranR98 in https://github.com/ImranR98/Obtainium/pull/2583\r\n  * Add support for zipped APKs - GitHub/HTML only for now (#983)\r\n  * Fix bug: Release asset download box crashing for track-only apps (#2567)\r\n  * Fix text alignment in app selection menu (#2577)\r\n* Refine Portuguese Translation by @neardaniel-pls in https://github.com/ImranR98/Obtainium/pull/2574\r\n\r\n\r\n**Full Changelog**: https://github.com/ImranR98/Obtainium/compare/v1.2.6...v1.2.7",
+            "releaseDate": 1762641227000000,
+            "changeLog": "## What's Changed\r\n* Update es.json by @CertainBot in https://github.com/ImranR98/Obtainium/pull/2607\r\n* Translation: Update hu.json by @summoner001 in https://github.com/ImranR98/Obtainium/pull/2584\r\n* By @ImranR98 in https://github.com/ImranR98/Obtainium/pull/2624:\r\n  * Use alternative storage dir if user-accessible one is null (#2392)\r\n  * Fix error message for RuStore when no APK found (#2615)\r\n  * Allow XAPK downloads from GitHub (#2587)\r\n\r\n\r\n**Full Changelog**: https://github.com/ImranR98/Obtainium/compare/v1.2.7...v1.2.8",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -86,28 +86,6 @@
             "allowIdChange": false
         },
         {
-            "id": "com.cappielloantonio.tempo",
-            "url": "https://github.com/CappielloAntonio/tempo",
-            "author": "CappielloAntonio",
-            "name": "Tempo",
-            "installedVersion": null,
-            "latestVersion": "3.9.0",
-            "apkUrls": "[[\"app-tempo-release.apk\",\"https://api.github.com/repos/CappielloAntonio/tempo/releases/assets/216979190\"]]",
-            "otherAssetUrls": "[[\"app-tempo-debug.apk\",\"https://api.github.com/repos/CappielloAntonio/tempo/releases/assets/216979481\"],[\"3.9.0.tar.gz\",\"https://api.github.com/repos/CappielloAntonio/tempo/tarball/3.9.0\"],[\"3.9.0.zip\",\"https://api.github.com/repos/CappielloAntonio/tempo/zipball/3.9.0\"]]",
-            "preferredApkIndex": 0,
-            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"[A-Za-z]+-temp[A-Za-z]-release\\\\.[A-Za-z]+\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1751289239233347,
-            "pinned": false,
-            "categories": [
-                "Streaming",
-                "Self-host"
-            ],
-            "releaseDate": 1735646429000000,
-            "changeLog": "> The release on F-Droid will follow shortly.\r\n> As always, those who want to contribute by reporting problems or crashes can do so using the version of the app marked as debug.\r\n\r\n_Starting from version 3.9.0, the GitHub version of the app has become the primary, first-class citizen. \r\nIt includes full features such as Android Auto and Chromecast support, and it is updatable as it checks GitHub for newer versions.\r\nThe version available on F-Droid will continue to exist, but personally I will always prefer the GitHub version for bug fixes and error corrections._\r\n\r\n## Changelog\r\n### Features\r\n- Added sorting and search functionality for song list and album/artist list (commit: 9e6926fc, 48d9022f)\r\n- Implemented additional sorting options for albums in the catalog screen (commit: 780f1c3a)\r\n- Added search functionality for songs within playlists (commit: 0f471a7b)\r\n- **Added ALAC codec support via Media3 FFmpeg module** (commit: 4ec15190)\r\n- **Implemented continuous playing** (commit: 176db096, e84f6222)\r\n- **Added the ability for the user to add a local server address and use it when available** (commit: f6b176a3)\r\n- Added long press to delete gesture (commit: 078aa875)\r\n- Added release date and original release date to album notes, if available (commit: 54a43557)\r\n- **Implemented version number control and update dialog for Github flavor** (commit: 0a26f0a7)\r\n- Added memory cache option (commit: 477331da)\r\n- Updated the horizontal song adapter with the disc name information (commit: b3b1c5b0)\r\n- Extended the Albums model according to the OpenSubsonic API project indications (commit: 25900c84)\r\n- Added the ability to pin playlists to the home screen (commit: fb7296b4)\r\n- Clicking the song's title now opens the album on the player (commit: 7c87ec2c)\r\n- Added an API call to retrieve AlbumID3 details in the album page (commit: 2c3aebc8)\r\n\r\n### Fixes\r\n- Fixed the server address change to backup address if the first one is unreachable (commit: e8e24354)\r\n- Fixed null checking in multiple places (commit: e305f208, c8c1bcfd, e1c96d27, 67e40797, 263d9ebc)\r\n- Fixed escape character issue (commit: 3783a2f7)\r\n- Removed deprecated code to check connectivity (commit: d3ca43ed)\r\n- Fixed order of downloaded tracks by artist, album, disc_number, and track number (commit: 4448a632)\r\n- Fixed null checking to prevent crashes (commit: 67e40797)\r\n- Fixed setAllowCrossProtocolRedirects to httpDataSourceFactory (commit: 08e9be10)\r\n- Set content description to floating action button (commit: 6cbb2ee1)\r\n\r\n### Other Changes\r\n- Dependencies and Gradle updates (commits: 0b92c40d, 618cf23e, b1e0f49d, fd0fd054, 4d1213c4, 240498c2, 2db716a7, 618cf23e, a49c78b9)\r\n- Code cleanup and style improvements (commits: 6f51fd92, aa5290c7, 41b374ab, dacaa03e)\r\n- Translations: Updated Russian, Italian, and Chinese (commit: eb6a2b60, 20ffc960, 85403486, 049ce771, 73a1ab23, 436ef21a)\r\n\r\nThe next version of the app will focus on optimizations, from list loadings to display items - I'll try to simplify as much as possible.",
-            "overrideSource": null,
-            "allowIdChange": false
-        },
-        {
             "id": "com.nextcloud.client",
             "url": "https://github.com/nextcloud/android",
             "author": "nextcloud",
@@ -139,7 +117,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":false,\"autoSelectHighestVersionCode\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"([A-Za-z]+(\\\\.[A-Za-z]+)+)_1\\\\d\\\\d\\\\d\\\\d\\\\d06\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1762455790012529,
+            "lastUpdateCheck": 1763347160613426,
             "pinned": false,
             "categories": [
                 "Local Media"
@@ -160,7 +138,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":false,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1762454393012074,
+            "lastUpdateCheck": 1763347155979830,
             "pinned": false,
             "categories": [
                 "File Manager"
@@ -181,7 +159,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"fallbackToOlderReleases\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"AuroraStore-(\\\\d(\\\\.\\\\d)+)\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1762453858581880,
+            "lastUpdateCheck": 1763347157563259,
             "pinned": false,
             "categories": [
                 "App Management"
@@ -224,7 +202,7 @@
             "otherAssetUrls": "[[\"delta-v2.9.0.apk\",\"https://api.github.com/repos/Delta-Icons/android/releases/assets/311369679\"],[\"v2.9.0.tar.gz\",\"https://api.github.com/repos/Delta-Icons/android/tarball/v2.9.0\"],[\"v2.9.0.zip\",\"https://api.github.com/repos/Delta-Icons/android/zipball/v2.9.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"[A-Za-z]+-([A-Za-z0-9]+(\\\\.[A-Za-z0-9]+)+)-foss\\\\.[A-Za-z]+\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762455789788081,
+            "lastUpdateCheck": 1763347156695572,
             "pinned": false,
             "categories": [
                 "Icons",
@@ -240,20 +218,20 @@
             "url": "https://github.com/breezy-weather/breezy-weather",
             "author": "breezy-weather",
             "name": "Breezy Weather",
-            "installedVersion": "v6.0.11-rc",
-            "latestVersion": "v6.0.11-rc",
-            "apkUrls": "[[\"breezy-weather-arm64-v8a-v6.0.11-rc_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/289284255\"]]",
-            "otherAssetUrls": "[[\"breezy-weather-armeabi-v7a-v6.0.11-rc_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/289284254\"],[\"breezy-weather-v6.0.11-rc_freenet.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/289284259\"],[\"breezy-weather-v6.0.11-rc_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/289284256\"],[\"breezy-weather-x86-v6.0.11-rc_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/289284253\"],[\"breezy-weather-x86_64-v6.0.11-rc_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/289284258\"],[\"mapping-v6.0.11-rc_freenet.tar.gz\",\"https://github.com/breezy-weather/breezy-weather/releases/download/v6.0.11-rc/mapping-v6.0.11-rc_freenet.tar.gz\"],[\"mapping-v6.0.11-rc_standard.tar.gz\",\"https://github.com/breezy-weather/breezy-weather/releases/download/v6.0.11-rc/mapping-v6.0.11-rc_standard.tar.gz\"],[\"v6.0.11-rc.tar.gz\",\"https://api.github.com/repos/breezy-weather/breezy-weather/tarball/v6.0.11-rc\"],[\"v6.0.11-rc.zip\",\"https://api.github.com/repos/breezy-weather/breezy-weather/zipball/v6.0.11-rc\"]]",
+            "installedVersion": "v6.0.12",
+            "latestVersion": "v6.0.12",
+            "apkUrls": "[[\"breezy-weather-arm64-v8a-v6.0.12_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/315040984\"]]",
+            "otherAssetUrls": "[[\"breezy-weather-armeabi-v7a-v6.0.12_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/315040979\"],[\"breezy-weather-v6.0.12_freenet.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/315040976\"],[\"breezy-weather-v6.0.12_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/315040977\"],[\"breezy-weather-x86-v6.0.12_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/315040982\"],[\"breezy-weather-x86_64-v6.0.12_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/315040978\"],[\"mapping-v6.0.12_freenet.tar.gz\",\"https://github.com/breezy-weather/breezy-weather/releases/download/v6.0.12/mapping-v6.0.12_freenet.tar.gz\"],[\"mapping-v6.0.12_standard.tar.gz\",\"https://github.com/breezy-weather/breezy-weather/releases/download/v6.0.12/mapping-v6.0.12_standard.tar.gz\"],[\"v6.0.12.tar.gz\",\"https://api.github.com/repos/breezy-weather/breezy-weather/tarball/v6.0.12\"],[\"v6.0.12.zip\",\"https://api.github.com/repos/breezy-weather/breezy-weather/zipball/v6.0.12\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762455790113789,
+            "lastUpdateCheck": 1763347159007796,
             "pinned": false,
             "categories": [
                 "Widgets",
                 "Weather"
             ],
-            "releaseDate": 1756920739000000,
-            "changeLog": "**If you don’t know what to do, download and install `breezy-weather-v6.0.11-rc_standard.apk`, or check [INSTALL instructions](https://github.com/breezy-weather/breezy-weather/blob/main/INSTALL.md) for more details.**\r\n\r\n**Improvements and fixes**\r\n- Fix crash when entering Appearance settings using 12-hour format with scheduled dark mode\r\n- Current location - Fix details sometimes not saved to database (previous location details restored on restart of the app)\r\n- Remove animations in the pressure block as it caused flickering\r\n- Change default distance unit for Germany to kilometer, as per DWD usage\r\n- Change default speed unit for Netherlands to meter per second, as per KNMI usage\r\n- Fix threshold value for scattered cloud cover (@cloneofghosts)\r\n\r\n**Translations**\r\n- Translations updated\r\n\r\n---\r\n\r\n### Checksums\r\n| Flavor   | Variant     | SHA-256                                |\r\n|----------|-------------|----------------------------------------|\r\n| Standard | Universal   | 9d1cd9352b3a0d473e4415476cbbb9d97a249816248449292fb5880858b1281d        |\r\n| Standard | arm64-v8a   | 7b433bd4b60e449b2fa6aa96ef42f4c7e061e2ce566f7d06d3974bb8abfc28eb        |\r\n| Standard | armeabi-v7a | 8f831457e42a4a0a0f9d9401345e1c8f6fd6fc9f98cc4cf1ce88fa98a6ae2e8e      |\r\n| Standard | x86         | 959ec6678e67dd7a6bd4b880c5997467e6e7770f3f509c7c624422f212b0c73d              |\r\n| Standard | x86_64      | 2eb3d75163f517cbb2a11bba74935402e6d1fc7a1446b7ec13554bc14cd72329           |\r\n| Freenet  | Universal   | 255aa017be51b688467eef8f2a9007ee36e1b2b3487f8043ffac71450b219f4f |\r\n",
+            "releaseDate": 1762854618000000,
+            "changeLog": "**If you don’t know what to do, download and install `breezy-weather-v6.0.12_standard.apk`, or check [INSTALL instructions](https://github.com/breezy-weather/breezy-weather/blob/main/INSTALL.md) for more details.**\r\n\r\n**This is the last release for Android Lollipop (5.0/5.1) users**\r\n\r\n**Improvements and fixes**\r\n- Daily/hourly forecast - Ensure the maximum value is always at a minimum defined value to ensure data is put in perspective, and remove threshold lines that weren’t very useful and cluttering the interface (wind, precipitation, cloud cover)\r\n- Make 24-hour charts and nowcasting charts less prone to swipe to next screen\r\n- Main screen - Fix moon icon disappearing past midnight\r\n- Main screen - Fix blocks not appearing after fade in animation was interrupted due to fast scrolling\r\n- Main screen - Fix animations re-appearing when scrolling (@min7-i)\r\n- Fix current air quality disappearing when refreshing too fast\r\n\r\n**Weather sources**\r\n- China - Fix refresh error for some users (@kmod-midori)\r\n- MET Éireann - Migrate to new API\r\n- Nominatim - Add missing preference to change server instance\r\n- Open-Meteo - Allow individual selection of new weather models: ECMWF IFS HRES 9 km, NCEP NAM U.S. Conus, MeteoSwiss\r\n- OpenWeather - Fix current condition not translated\r\n- Pirate Weather - Add support for thunderstorm icon (@cloneofghosts)\r\n- Pollen Information AT - Add support as a pollen source for some European countries (@phileix)\r\n\r\n**Translations**\r\n- Translations updated\r\n\r\n---\r\n\r\n### Checksums\r\n| Flavor   | Variant     | SHA-256                                |\r\n|----------|-------------|----------------------------------------|\r\n| Standard | Universal   | bd1ef770865e40b66f21c896be8ecdf6383a018cbe778b57d5f1ee384e5d2260        |\r\n| Standard | arm64-v8a   | 04f271d437d6ede1bee6df58e4d34b8522253bf3c77c3e2751f2d05081cb65a7        |\r\n| Standard | armeabi-v7a | a9739bdc30108f97689e865b73944b7bc4812f2659b816f7b386533cec20eb66      |\r\n| Standard | x86         | 491598da0596d21257fae58a0ba1b9086ef3d4a6222332e06e1c8b8490f5e123              |\r\n| Standard | x86_64      | a547b4686e0ad0c0a56831bddf2fdaa5e487ced1eb8dd1acfe75fdb3148dfac9           |\r\n| Freenet  | Universal   | 7285a37774ea1db53bc8d6bf46861ce8467315fa77b4d7f66b5ecff7b9c9125f |\r\n",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -268,7 +246,7 @@
             "otherAssetUrls": "[[\"release-v2.14.1.tar.xz\",\"https://github.com/TechbeeAT/jtxBoard/releases/download/v2.14.1/release-v2.14.1.tar.xz\"],[\"v2.14.1.tar.gz\",\"https://api.github.com/repos/TechbeeAT/jtxBoard/tarball/v2.14.1\"],[\"v2.14.1.zip\",\"https://api.github.com/repos/TechbeeAT/jtxBoard/zipball/v2.14.1\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762455789893400,
+            "lastUpdateCheck": 1763347158457820,
             "pinned": false,
             "categories": [
                 "Self-host"
@@ -394,7 +372,7 @@
             "otherAssetUrls": "[[\"1.90.4-t0d7298602-g92f2bb273.tar.gz\",\"https://api.github.com/repos/tailscale/tailscale-android/tarball/1.90.4-t0d7298602-g92f2bb273\"],[\"1.90.4-t0d7298602-g92f2bb273.zip\",\"https://api.github.com/repos/tailscale/tailscale-android/zipball/1.90.4-t0d7298602-g92f2bb273\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762526196657604,
+            "lastUpdateCheck": 1763347153021239,
             "pinned": false,
             "categories": [
                 "Security",
@@ -416,7 +394,7 @@
             "otherAssetUrls": "[[\"v4.5.5-ose.tar.gz\",\"https://api.github.com/repos/bitfireAT/davx5-ose/tarball/v4.5.5-ose\"],[\"v4.5.5-ose.zip\",\"https://api.github.com/repos/bitfireAT/davx5-ose/zipball/v4.5.5-ose\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762455789677072,
+            "lastUpdateCheck": 1763347155653822,
             "pinned": false,
             "categories": [
                 "Sync"
@@ -437,7 +415,7 @@
             "otherAssetUrls": "[[\"Keyguard-1.15.2-apple.dmg\",\"https://github.com/AChep/keyguard-app/releases/download/r20251015/Keyguard-1.15.2-apple.dmg\"],[\"Keyguard-1.15.2-intel.dmg\",\"https://github.com/AChep/keyguard-app/releases/download/r20251015/Keyguard-1.15.2-intel.dmg\"],[\"Keyguard-1.15.2.msi\",\"https://github.com/AChep/keyguard-app/releases/download/r20251015/Keyguard-1.15.2.msi\"],[\"Keyguard.flatpak\",\"https://github.com/AChep/keyguard-app/releases/download/r20251015/Keyguard.flatpak\"],[\"r20251015.tar.gz\",\"https://api.github.com/repos/AChep/keyguard-app/tarball/r20251015\"],[\"r20251015.zip\",\"https://api.github.com/repos/AChep/keyguard-app/zipball/r20251015\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Keyguard\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762455789992758,
+            "lastUpdateCheck": 1763347160391709,
             "pinned": false,
             "categories": [
                 "Security",
@@ -476,17 +454,17 @@
             "name": "CloudStream Beta",
             "installedVersion": "pre-release",
             "latestVersion": "pre-release",
-            "apkUrls": "[[\"app-prerelease-release.apk\",\"https://api.github.com/repos/recloudstream/cloudstream/releases/assets/313403688\"]]",
+            "apkUrls": "[[\"app-prerelease-release.apk\",\"https://api.github.com/repos/recloudstream/cloudstream/releases/assets/315981188\"]]",
             "otherAssetUrls": "[[\"app-sources.jar\",\"https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-sources.jar\"],[\"classes.jar\",\"https://github.com/recloudstream/cloudstream/releases/download/pre-release/classes.jar\"],[\"pre-release.tar.gz\",\"https://api.github.com/repos/recloudstream/cloudstream/tarball/pre-release\"],[\"pre-release.zip\",\"https://api.github.com/repos/recloudstream/cloudstream/zipball/pre-release\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"CloudStream\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762526182550617,
+            "lastUpdateCheck": 1763347151744753,
             "pinned": false,
             "categories": [
                 "Streaming"
             ],
-            "releaseDate": 1762452777000000,
-            "changeLog": "## Commits\n- 20fa05b: Require `fixLayout()` to be overridden (#2155) (Luna712) [#2155](https://github.com/recloudstream/cloudstream/pull/2155)",
+            "releaseDate": 1763042820000000,
+            "changeLog": "## Commits\n- PIP problems caused by #2199 + Old PIP problems on low API versions. Closes #2202 ([firelight](https://github.com/recloudstream/cloudstream/commit/0579a15f9b940b0af310e8a328a671f62ccc03f9))",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -670,7 +648,7 @@
             "otherAssetUrls": "[[\"v3.4.1.tar.gz\",\"https://api.github.com/repos/beemdevelopment/Aegis/tarball/v3.4.1\"],[\"v3.4.1.zip\",\"https://api.github.com/repos/beemdevelopment/Aegis/zipball/v3.4.1\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762455789539871,
+            "lastUpdateCheck": 1763347154953922,
             "pinned": false,
             "categories": [
                 "Security"
@@ -712,7 +690,7 @@
             "otherAssetUrls": "[[\"3.0.tar.gz\",\"https://api.github.com/repos/Delta-Icons/breezy-weather/tarball/3.0\"],[\"3.0.zip\",\"https://api.github.com/repos/Delta-Icons/breezy-weather/zipball/3.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762455789629844,
+            "lastUpdateCheck": 1763347154529953,
             "pinned": false,
             "categories": [
                 "Visual",
@@ -755,7 +733,7 @@
             "otherAssetUrls": "[[\"2.25.tar.gz\",\"https://api.github.com/repos/mueller-ma/Coffee/tarball/2.25\"],[\"2.25.zip\",\"https://api.github.com/repos/mueller-ma/Coffee/zipball/2.25\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1762455789412826,
+            "lastUpdateCheck": 1763347151617376,
             "pinned": false,
             "categories": [
                 "Visual",
@@ -798,7 +776,7 @@
             "otherAssetUrls": "[[\"v1.0.3.tar.gz\",\"https://api.github.com/repos/Mahmud0808/PixelLauncherEnhanced/tarball/v1.0.3\"],[\"v1.0.3.zip\",\"https://api.github.com/repos/Mahmud0808/PixelLauncherEnhanced/zipball/v1.0.3\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1762455789373493,
+            "lastUpdateCheck": 1763347151468842,
             "pinned": false,
             "categories": [
                 "Visual",
@@ -823,7 +801,7 @@
             "otherAssetUrls": "[[\"0.5.2.tar.gz\",\"https://api.github.com/repos/RichardLuo0/global-icon-pack-android/tarball/0.5.2\"],[\"0.5.2.zip\",\"https://api.github.com/repos/RichardLuo0/global-icon-pack-android/zipball/0.5.2\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Global Icon Pack\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1762461582169802,
+            "lastUpdateCheck": 1763347154375919,
             "pinned": false,
             "categories": [
                 "Visual",
@@ -848,7 +826,7 @@
             "otherAssetUrls": "[[\"app-debug.apk\",\"https://api.github.com/repos/topjohnwu/Magisk/releases/assets/299695605\"],[\"notes.md\",\"https://github.com/topjohnwu/Magisk/releases/download/v30.4/notes.md\"],[\"v30.4.tar.gz\",\"https://api.github.com/repos/topjohnwu/Magisk/tarball/v30.4\"],[\"v30.4.zip\",\"https://api.github.com/repos/topjohnwu/Magisk/zipball/v30.4\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"Magisk-v30\\\\.4\\\\.[A-Za-z0-9]+\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1762531785866756,
+            "lastUpdateCheck": 1763391608207483,
             "pinned": false,
             "categories": [
                 "Mods",
@@ -870,7 +848,7 @@
             "otherAssetUrls": "[[\"v0.30.tar.gz\",\"https://api.github.com/repos/sunilpaulmathew/De-Bloater/tarball/v0.30\"],[\"v0.30.zip\",\"https://api.github.com/repos/sunilpaulmathew/De-Bloater/zipball/v0.30\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1762453873456923,
+            "lastUpdateCheck": 1763347152340651,
             "pinned": false,
             "categories": [
                 "App Management",
@@ -936,7 +914,7 @@
             "otherAssetUrls": "[[\"Cherrygram-9.9.0-TG-12.1.1-armeabi-v7a.apk\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/releases/assets/309211472\"],[\"Cherrygram-9.9.0-TG-12.1.1-universal.apk\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/releases/assets/309211560\"],[\"Cherrygram-Huawei-9.9.0-TG-12.1.1-arm64-v8a.apk\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/releases/assets/309211665\"],[\"Cherrygram-Huawei-9.9.0-TG-12.1.1-armeabi-v7a.apk\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/releases/assets/309211832\"],[\"Cherrygram-Huawei-9.9.0-TG-12.1.1-universal.apk\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/releases/assets/309211975\"],[\"9.9.0.tar.gz\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/tarball/9.9.0\"],[\"9.9.0.zip\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/zipball/9.9.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"Cherrygram-([A-Za-z0-9]+(\\\\.[A-Za-z0-9]+)+)-TG-1\\\\d\\\\.\\\\d([+-]?(?=\\\\.\\\\d|\\\\d)(?:\\\\d+)?(?:\\\\.?\\\\d*))(?:[Ee]([+-]?\\\\d+))?-arm64-v8a\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":false,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762453819849718,
+            "lastUpdateCheck": 1763347159594878,
             "pinned": false,
             "categories": [
                 "Social"
@@ -957,7 +935,7 @@
             "otherAssetUrls": "[[\"com.android.vending-84022618-hw.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/276071842\"],[\"com.android.vending-84022618-hw.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.9.250932/com.android.vending-84022618-hw.apk.asc\"],[\"com.android.vending-84022618.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/276071949\"],[\"com.android.vending-84022618.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.9.250932/com.android.vending-84022618.apk.asc\"],[\"com.google.android.gms-250932018-hw.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/276070954\"],[\"com.google.android.gms-250932018-hw.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.9.250932/com.google.android.gms-250932018-hw.apk.asc\"],[\"com.google.android.gms-250932018.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.9.250932/com.google.android.gms-250932018.apk.asc\"],[\"org.microg.gms-250932018-user.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/276071212\"],[\"org.microg.gms-250932018-user.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.9.250932/org.microg.gms-250932018-user.apk.asc\"],[\"v0.3.9.250932.tar.gz\",\"https://api.github.com/repos/microg/GmsCore/tarball/v0.3.9.250932\"],[\"v0.3.9.250932.zip\",\"https://api.github.com/repos/microg/GmsCore/zipball/v0.3.9.250932\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"com\\\\.google\\\\.android\\\\.gms-[0-9]+\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"microG - Play Services\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762453837847124,
+            "lastUpdateCheck": 1763347157125772,
             "pinned": false,
             "categories": [
                 "Core Functionality"
@@ -978,7 +956,7 @@
             "otherAssetUrls": "[[\"com.android.vending-84022618-hw.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/276071842\"],[\"com.android.vending-84022618-hw.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.9.250932/com.android.vending-84022618-hw.apk.asc\"],[\"com.android.vending-84022618.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.9.250932/com.android.vending-84022618.apk.asc\"],[\"com.google.android.gms-250932018-hw.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/276070954\"],[\"com.google.android.gms-250932018-hw.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.9.250932/com.google.android.gms-250932018-hw.apk.asc\"],[\"com.google.android.gms-250932018.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/276071498\"],[\"com.google.android.gms-250932018.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.9.250932/com.google.android.gms-250932018.apk.asc\"],[\"org.microg.gms-250932018-user.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/276071212\"],[\"org.microg.gms-250932018-user.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.9.250932/org.microg.gms-250932018-user.apk.asc\"],[\"v0.3.9.250932.tar.gz\",\"https://api.github.com/repos/microg/GmsCore/tarball/v0.3.9.250932\"],[\"v0.3.9.250932.zip\",\"https://api.github.com/repos/microg/GmsCore/zipball/v0.3.9.250932\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"com\\\\.android\\\\.vending-([A-Za-z0-9]+(\\\\.[A-Za-z0-9]+)+)\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"microG - Vending (Fake Play Store)\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1762453842357190,
+            "lastUpdateCheck": 1763347157503062,
             "pinned": false,
             "categories": [
                 "Core Functionality"
@@ -999,7 +977,7 @@
             "otherAssetUrls": "[[\"Pinepods-0.8.2-1.aarch64.rpm\",\"https://github.com/madeofpendletonwool/PinePods/releases/download/0.8.2/Pinepods-0.8.2-1.aarch64.rpm\"],[\"Pinepods-0.8.2-1.x86_64.rpm\",\"https://github.com/madeofpendletonwool/PinePods/releases/download/0.8.2/Pinepods-0.8.2-1.x86_64.rpm\"],[\"pinepods-armeabi-0.8.2.apk\",\"https://api.github.com/repos/madeofpendletonwool/PinePods/releases/assets/312422677\"],[\"pinepods-x86_64-0.8.2.apk\",\"https://api.github.com/repos/madeofpendletonwool/PinePods/releases/assets/312422684\"],[\"Pinepods_0.8.2_aarch64.AppImage\",\"https://github.com/madeofpendletonwool/PinePods/releases/download/0.8.2/Pinepods_0.8.2_aarch64.AppImage\"],[\"Pinepods_0.8.2_aarch64.dmg\",\"https://github.com/madeofpendletonwool/PinePods/releases/download/0.8.2/Pinepods_0.8.2_aarch64.dmg\"],[\"Pinepods_0.8.2_amd64.AppImage\",\"https://github.com/madeofpendletonwool/PinePods/releases/download/0.8.2/Pinepods_0.8.2_amd64.AppImage\"],[\"Pinepods_0.8.2_amd64.deb\",\"https://github.com/madeofpendletonwool/PinePods/releases/download/0.8.2/Pinepods_0.8.2_amd64.deb\"],[\"Pinepods_0.8.2_arm64.deb\",\"https://github.com/madeofpendletonwool/PinePods/releases/download/0.8.2/Pinepods_0.8.2_arm64.deb\"],[\"Pinepods_0.8.2_x64-setup.exe\",\"https://github.com/madeofpendletonwool/PinePods/releases/download/0.8.2/Pinepods_0.8.2_x64-setup.exe\"],[\"Pinepods_0.8.2_x64.dmg\",\"https://github.com/madeofpendletonwool/PinePods/releases/download/0.8.2/Pinepods_0.8.2_x64.dmg\"],[\"Pinepods_0.8.2_x64_en-US.msi\",\"https://github.com/madeofpendletonwool/PinePods/releases/download/0.8.2/Pinepods_0.8.2_x64_en-US.msi\"],[\"0.8.2.tar.gz\",\"https://api.github.com/repos/madeofpendletonwool/PinePods/tarball/0.8.2\"],[\"0.8.2.zip\",\"https://api.github.com/repos/madeofpendletonwool/PinePods/zipball/0.8.2\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"[A-Za-z]+-arm64-\\\\d\\\\.[0-9]+\\\\.[0-9]+\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1762531302927281,
+            "lastUpdateCheck": 1763391528008233,
             "pinned": false,
             "categories": [
                 "Streaming",
@@ -1037,19 +1015,19 @@
             "author": "eddyizm",
             "name": "tempus",
             "installedVersion": null,
-            "latestVersion": "v4.1.3",
-            "apkUrls": "[[\"app-tempus-arm64-v8a-release.apk\",\"https://api.github.com/repos/eddyizm/tempus/releases/assets/313515132\"]]",
-            "otherAssetUrls": "[[\"app-degoogled-arm64-v8a-release.apk\",\"https://api.github.com/repos/eddyizm/tempus/releases/assets/313515199\"],[\"app-degoogled-armeabi-v7a-release.apk\",\"https://api.github.com/repos/eddyizm/tempus/releases/assets/313515204\"],[\"app-tempus-armeabi-v7a-release.apk\",\"https://api.github.com/repos/eddyizm/tempus/releases/assets/313515167\"],[\"v4.1.3.tar.gz\",\"https://api.github.com/repos/eddyizm/tempus/tarball/v4.1.3\"],[\"v4.1.3.zip\",\"https://api.github.com/repos/eddyizm/tempus/zipball/v4.1.3\"]]",
+            "latestVersion": "v4.2.4",
+            "apkUrls": "[[\"app-tempus-arm64-v8a-release.apk\",\"https://api.github.com/repos/eddyizm/tempus/releases/assets/316810900\"]]",
+            "otherAssetUrls": "[[\"app-degoogled-arm64-v8a-release.apk\",\"https://api.github.com/repos/eddyizm/tempus/releases/assets/316810871\"],[\"app-degoogled-armeabi-v7a-release.apk\",\"https://api.github.com/repos/eddyizm/tempus/releases/assets/316810881\"],[\"app-tempus-armeabi-v7a-release.apk\",\"https://api.github.com/repos/eddyizm/tempus/releases/assets/316810905\"],[\"v4.2.4.tar.gz\",\"https://api.github.com/repos/eddyizm/tempus/tarball/v4.2.4\"],[\"v4.2.4.zip\",\"https://api.github.com/repos/eddyizm/tempus/zipball/v4.2.4\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"[A-Za-z]+-tempus-arm64-v8a-release\\\\.[A-Za-z]p[A-Za-z]\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1762531934877838,
+            "lastUpdateCheck": 1763391644469852,
             "pinned": false,
             "categories": [
                 "Streaming",
                 "Self-host"
             ],
-            "releaseDate": 1762474676000000,
-            "changeLog": "## What's Changed\r\n* [fix: equalizer missing referenced value](https://github.com/eddyizm/tempus/commit/923cfd5bc97ed7db28c90348e3619d0a784fc434)\r\n* Fix: Album track list bug by @eddyizm in https://github.com/eddyizm/tempus/pull/237\r\n* fix: Add listener to enable equalizer when audioSessionId changes by @jaime-grj in https://github.com/eddyizm/tempus/pull/235\r\n\r\n\r\n**Full Changelog**: https://github.com/eddyizm/tempus/compare/v4.1.0...v4.1.3",
+            "releaseDate": 1763228430000000,
+            "changeLog": "## What's Changed\r\n* chore: Update russian strings.xml by @Sevinfolds in https://github.com/eddyizm/tempus/pull/249\r\n* fix: disallow duplicate songs in queue by @eddyizm in https://github.com/eddyizm/tempus/pull/252\r\n* fix:github release check by @eddyizm in https://github.com/eddyizm/tempus/pull/253\r\n* fix: Fixed crash when viewing share by @drakeerv in https://github.com/eddyizm/tempus/pull/255\r\n* chore: Update Polish translation by @skajmer in https://github.com/eddyizm/tempus/pull/257\r\n* fix: add podcast/radio channel visible when empty podcasts/radio by @eddyizm in https://github.com/eddyizm/tempus/pull/260\r\n\r\n## New Contributors\r\n* @Sevinfolds made their first contribution in https://github.com/eddyizm/tempus/pull/249\r\n* @drakeerv made their first contribution in https://github.com/eddyizm/tempus/pull/255\r\n\r\n**Full Changelog**: https://github.com/eddyizm/tempus/compare/v4.2.0...v4.2.4",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -1081,7 +1059,7 @@
         "welcomeShown": true,
         "categories": "{\"App Management\":4288980455,\"Social\":4293497263,\"Visual\":4293431474,\"Weather\":4283022994,\"Security\":4293431479,\"Revanced\":4278304444,\"Launcher\":4293432224,\"Streaming\":4293431479,\"Alt 3rd Party\":4293431474,\"Mods\":4292449237,\"Icons\":4292451959,\"Self-host\":4284331484,\"Sync\":4287608678,\"Input\":4279615404,\"Widgets\":4292451959,\"File Manager\":4288328800,\"Browser\":4286034146,\"Local Media\":4281974683,\"Core Functionality\":4291205857,\"Root\":4287605734,\"Xposed\":4280860580}",
         "hideAPKOriginWarning": true,
-        "lastCompletedBGCheckTime": 1762455842707,
+        "lastCompletedBGCheckTime": 1763347162904,
         "updateIntervalSliderVal": 8.049999999999999,
         "reversePageTransitions": false,
         "parallelDownloads": true,
