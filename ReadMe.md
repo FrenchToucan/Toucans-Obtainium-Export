@@ -55,15 +55,18 @@ Enjoy your FOSS app journey!
 -   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
 
 ### 🎵 Media & Entertainment
--   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod)
--   🎵 **Music**: [Tempo](https://github.com/CappielloAntonio/tempo) – Music app (requires Subsonic instance)
--   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler)
+-   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod) | [Pinepods]([https://github.com/AntennaPod/AntennaPod](https://github.com/madeofpendletonwool/PinePods) (requires hosted Pinepods instance)
+-   🎵 **Music**: [Tempus](https://github.com/eddyizm/tempus) (requires hosted Subsonic instance)
+-   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler) - Scrobble from a lot of different apps to a lot of different services
 -   🎵 **YouTube Music**: [YouTube Music ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube Music client
 -   📺 **YouTube**: [YouTube ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube client
 -   🎥 **Streaming**: [CloudStream](https://github.com/LagradOst/CloudStream-3) – Movie/TV show streamer
 -   🎥 **Media Player**: [VLC](https://github.com/videolan/vlc-android)
 -   🎧 **Audiobooks**: [Lissen](https://github.com/JonnyBurger/lissen) – Alternative Audiobookshelf client (requires Audiobookshelf instance)
--   📚 **Comic Reader**: [Komelia](https://github.com/Snd-R/Komelia) – (requires Komga or Kavita instance)
+-   📚 **Comic Reader**: [Komelia](https://github.com/Snd-R/Komelia) – (requires hosted Komga or Kavita instance)
+-   📸 **Photos**: [Immich](https://github.com/immich-app/immich) – Google Photos clone (sort of) (requires hosted Immich instance)
+-   🗂️ **Cloud Storage**: [Nextcloud](https://github.com/nextcloud/android) – Cloud file sync & collaboration (requires hosted Nextcloud instance)
+-   🏠 **Smart Home**: [Home Assistant](https://github.com/home-assistant/android) – Home automation (requires hosted Home Assistant instance)
 
 ### 📱 App Management & System
 -   🛍️ **Play Store**: [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) – Replacement for Play Store
@@ -91,12 +94,7 @@ Enjoy your FOSS app journey!
 ### 🌦️ Weather & Location
 -   🌦️ **Weather**: [Breezy Weather](https://github.com/MatthewZMD/BreezyWeather) – Weather app with widgets
 
-### 🏠 Self-Hosted Services
--   🏠 **Smart Home**: [Home Assistant](https://github.com/home-assistant/android) – Home automation (requires Home Assistant instance)
--   📸 **Photos**: [Immich](https://github.com/immich-app/immich) – Google Photos clone (sort of) (requires Immich instance)
--   🗂️ **Cloud Storage**: [Nextcloud](https://github.com/nextcloud/android) – Cloud file sync & collaboration (requires Nextcloud instance)
-
 ### ⌨️ Input & Utilities
--   ⌨️ **Keyboard**: [Heliboard](https://github.com/GboardThemes/Heliboard) – Swipe typing keyboard
+-   ⌨️ **Keyboard**: [Heliboard](https://github.com/Helium314/HeliBoard) | [Florisboard](https://github.com/florisboard/florisboard)
 -   🔒 **Private DNS Tile**: [Private DNS Quick Toggle](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) – Quick Settings tile for private DNS
 -   ☕ **Keep Awake Tile**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick Settings tile to keep the screen awake 
