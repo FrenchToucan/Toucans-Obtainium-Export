@@ -55,7 +55,7 @@ Enjoy your FOSS app journey!
 -   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
 
 ### 🎵 Media & Entertainment
--   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod) | [Pinepods]([https://github.com/AntennaPod/AntennaPod](https://github.com/madeofpendletonwool/PinePods) (requires hosted Pinepods instance)
+-   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod) | [Pinepods](https://github.com/madeofpendletonwool/PinePods) (requires hosted Pinepods instance)
 -   🎵 **Music**: [Tempus](https://github.com/eddyizm/tempus) (requires hosted Subsonic instance)
 -   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler) - Scrobble from a lot of different apps to a lot of different services
 -   🎵 **YouTube Music**: [YouTube Music ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube Music client
