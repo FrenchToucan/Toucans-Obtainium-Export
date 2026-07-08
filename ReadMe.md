@@ -1,100 +1,42 @@
-This repo contains my ever-evolving Obtainium export.
+This repository contains my ever-evolving ObtainX configuration export. I have completely revamped this list to double down on open-source and providing only what I think is the best app in the role right now. Installing just the apps on this list will give you a fully functioning Android experience whether on GrapheneOS or LineageOS (or a child of LineageOS). 
 
+## Setup Instructions
 
-#### Steps
-
-Manual Method
-1. Download and extract source code from most recent release.
-2. Open Obtainium.
-3. Go to **Import/Export** (at the bottom).
-4. Select **Obtainium Import**.
-5. Choose the `obtainium-export.json` file.
-6. (Recommended) Go to **Settings** and add your GitHub Personal Access Token in the **Source-Specific** section. Otherwise you'll be rate limited pretty much immediately.
-7. (Recommended) After installing and enabling Shizuku, go to **Settings** and select **Use Shiuku or Sui to install**.
-
-Semi-automatic Method
-1. **Connect your Android device** (with USB debugging enabled).
-2. **Save the script** above as `install_obtainium_and_import.sh`.
-3. In your terminal, run:
-   ```bash
-   chmod +x install_obtainium_and_import.sh
-   ./install_obtainium_and_import.sh
-   ```
-4. **On your device**, open Obtainium, go to its import feature, and select `obtainium_export.json` from your Downloads folder.
+1. Download the `obtainx-export.json` file from this repository.
+2. Install **ObtainX** directly from GitHub: [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX).
+3. Open ObtainX and go to **Backup** -> **ObtainX import**.
+4. Choose the `obtainx-export.json` file.
+5. **(Recommended):** Add your GitHub Personal Access Token in **Settings** -> **GitHub PAT** to avoid API rate limiting.
 
 ---
 
-## 📦 About
+## App Inventory & Functions
 
-- The latest export is always available in this repository as a `.json` file.
-- You can use the script above any time you want to update your Obtainium sources with the latest export.
-
----
-
-## 💡 Tips
-
-- For privacy, review the export file before importing.
-- The script can be re-run whenever there’s a new export.
-- For help, see [Obtainium’s documentation](https://github.com/ImranR98/Obtainium).
-
----
-
-Enjoy your FOSS app journey!
-
-## App List
-
-### 🔐 Security & Privacy
--   🔐 **2FA**: [Aegis](https://github.com/beemdevelopment/Aegis)
--   🔑 **Password Manager**: [Bitwarden](https://github.com/bitwarden/mobile) – Official client | [Keyguard](https://github.com/AChep/keyguard-app) – Alternative Bitwarden client
-
-### 🌐 Web & Communication
--   🌍 **Browser**: [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
--   💬 **Telegram**: [Telegram](https://telegram.org/) – Official client | [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - Unofficial Telegram client with additional features
--   📧 **Email**: [Thunderbird](https://github.com/thundermail/thunderbird) – Email client
--   👾 **Reddit Client**: [Reddit ReVanced Extended](https://github.com/NoName-exe/revanced-mnml) – Better version of the Reddit client
--   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
-
-### 🎵 Media & Entertainment
--   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod) | [Pinepods](https://github.com/madeofpendletonwool/PinePods) (requires hosted Pinepods instance)
--   🎵 **Music**: [Tempus](https://github.com/eddyizm/tempus) (requires hosted Subsonic instance)
--   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler) - Scrobble from a lot of different apps to a lot of different services
--   🎵 **YouTube Music**: [YouTube Music ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube Music client
--   📺 **YouTube**: [YouTube ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube client
--   🎥 **Streaming**: [CloudStream](https://github.com/LagradOst/CloudStream-3) – Movie/TV show streamer
--   🎥 **Media Player**: [VLC](https://github.com/videolan/vlc-android)
--   🎧 **Audiobooks**: [Lissen](https://github.com/JonnyBurger/lissen) – Alternative Audiobookshelf client (requires Audiobookshelf instance)
--   📚 **Comic Reader**: [Komelia](https://github.com/Snd-R/Komelia) – (requires hosted Komga or Kavita instance)
--   📸 **Photos**: [Immich](https://github.com/immich-app/immich) – Google Photos clone (sort of) (requires hosted Immich instance)
--   🗂️ **Cloud Storage**: [Nextcloud](https://github.com/nextcloud/android) – Cloud file sync & collaboration (requires hosted Nextcloud instance)
--   🏠 **Smart Home**: [Home Assistant](https://github.com/home-assistant/android) – Home automation (requires hosted Home Assistant instance)
-
-### 📱 App Management & System
--   🛍️ **Play Store**: [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) – Replacement for Play Store
--   📦 **FOSS Package Manager**: [Obtainium](https://github.com/ImranR98/Obtainium) – Download apks from Github and other services
--   🗑️ **De-Bloater**: [De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) – Remove unwanted system apps (requires root)
--   🦾 **Stop Play Store Updates**: [Zygisk Detach App](https://github.com/j-hc/zygisk-detach-app) – Detach apps from Play Store (requires Magisk/KernelSU module [here](https://github.com/j-hc/zygisk-detach))
--   📱 **GmsCore**: [MicroG](https://github.com/microg/GmsCore) – GmsCore from the microG team (two packages, root no longer required for full experience) | [MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore if you only need it for YouTube Revanced and YouTube Music Revanced
--   🏢 **Work Profile**: [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Work profile manager
--   ⚙️ **Elevated Access**: [Shizuku](https://github.com/RikkaApps/Shizuku) – Elevated access provider
--   📱 **ADB Shell**: [aShell You](https://github.com/lionzxy/aShell)
-
-### 🎨 Customization & Theming
--   🚀 **Launcher**: [Lawnchair](https://github.com/Goooler/LawnchairRelease) – Lawnchair signed builds
--   🚀 **Pixel Launcher Improvements**: [PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced) – Enhance Pixel Launcher (root,lsposed required)
--   🎨 **Icon Pack**: [Delta Icons](https://github.com/Delta-Icons/android) | [Arcticons](https://github.com/Donnnno/Arcticons)
--   🎨 **Weather Icon Pack**: [Delta Icon Pack for Breezy Weather](https://github.com/MatthewZMD/Delta)
--   🎨 **System-wide Icon Theming**: [Global Icon Pack](https://github.com/RIchardLuo0/Global-Icon-Pack) – Apply icon packs globally (root, lsposed required)
--   🎨 **Theming**: [Telemone](https://github.com/ananpay/tilemone) – Telegram themer (not necessary for Cherrygram)
-
-### 📁 File Management & Productivity
--   📁 **File Manager**: [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/)
--   📝 **Notes & Tasks**: [jtx Board](https://github.com/jtxBoard/jtxBoard)
--   📅 **Sync**: [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – CalDAV/CardDAV/WebDAV synchronization
-
-### 🌦️ Weather & Location
--   🌦️ **Weather**: [Breezy Weather](https://github.com/MatthewZMD/BreezyWeather) – Weather app with widgets
-
-### ⌨️ Input & Utilities
--   ⌨️ **Keyboard**: [Heliboard](https://github.com/Helium314/HeliBoard) | [Florisboard](https://github.com/florisboard/florisboard)
--   🔒 **Private DNS Tile**: [Private DNS Quick Toggle](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) – Quick Settings tile for private DNS
--   ☕ **Keep Awake Tile**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick Settings tile to keep the screen awake 
+*   **Aegis** (`com.beemdevelopment.aegis`) – 2FA token generator with local encrypted backups.
+*   **AntennaPod** (`de.danoeh.antennapod`) – Podcast player and subscription manager.
+*   **Arcticons** (`com.donnnno.arcticons`) – Monochromatic line-art icon pack.
+*   **Aurora Store** (`com.aurora.store`) – Play Store client for anonymous app downloads.
+*   **Breezy Weather** (`org.breezyweather`) – Material You weather app using open data sources.
+*   **CAPod** (`eu.darken.capod`) – Earbud status monitor for AirPods and alternatives.
+*   **Cloudstream** (`com.lagradost.cloudstream3`) – Modular media streaming engine.
+*   **Coffee** (`com.github.muellerma.coffee`) – Quick settings tile to keep the screen awake.
+*   **DAVx⁵** (`at.bitfire.davdroid`) – CalDAV/CardDAV sync client for contacts and calendars.
+*   **Delta** (`website.leifs.delta.fossdc`) – Pastel icon pack (FOSS build).
+*   **Delta Breezy Weather Icon Pack** (`website.leifs.delta.breezyweather`) – Weather icons matched for Breezy Weather.
+*   **Etar Calendar** (`ws.xsoh.etar`) – Lightweight open-source calendar app.
+*   **Fastmail** (`com.fastmail.app`) – Email client wrapper with push notification support.
+*   **FUTO Keyboard** (`org.futo.inputmethod.latin`) – Keyboard with fully offline swipe typing and voice dictation.
+*   **Gadgetbridge** (`nodomain.freeyourgadget.gadgetbridge`) – Offline health and fitness tracker companion for wearables.
+*   **Global Icon Pack** (`com.richardluo.globalIconPack`) – System-wide icon routing framework (requires root).
+*   **Google Messages** (`com.google.android.apps.messaging`) – Stock app for SMS and RCS text messaging.
+*   **Home Assistant** (`io.homeassistant.companion.android`) – Smart home automation control dashboard.
+*   **Immich** (`app.alextran.immich`) – Self-hosted photo and video backup client.
+*   **jtx Board** (`at.techbee.jtx`) – V Journal-compatible diary, notes, and task board.
+*   **Keyguard** (`com.artemchep.keyguard`) – Lightweight native client for Bitwarden password autofill.
+*   **LibreTube** (`com.github.libretube`) – Alternative YouTube frontend built to bypass tracking.
+*   **Magisk** (`com.topjohnwu.magisk`) – Open-source root manager and su provider.
+*   **microG Services** (`com.google.android.gms`) – FOSS framework for sandboxed Google services and push notifications.
+*   **MiXplorer** (`com.mixplorer.beta`) – Advanced file manager with network and root access options.
+*   **MpvEx** (`app.marlboroadvance.mpvex`) – Gesture-based video player using the MPV core.
+*   **ObtainX** (`dev.bikram.obtainx`) – App updater that scrapes GitHub and other sources and sideloads APKs.
+*   **PrivateDNSAndroid** (`ru.karasevm.privatednstoggle`) – Quick settings tile to quickly switch private DNS servers.
