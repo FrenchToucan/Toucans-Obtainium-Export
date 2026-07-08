@@ -1,4 +1,4 @@
-This repository contains my ever-evolving ObtainX configuration export. I have completely revamped this list to double down on open-source and providing only what I think is the best app in the role right now.
+This repository contains my ever-evolving ObtainX configuration export. I have completely revamped this list to double down on open-source and providing only what I think is the best app in the role right now. Installing just the apps on this list will give you a fully functioning Android experience whether on GrapheneOS or LineageOS (or a child of LineageOS). 
 
 ## Setup Instructions
 
