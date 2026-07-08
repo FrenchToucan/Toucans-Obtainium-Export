@@ -23,23 +23,23 @@ Where necessary, custom regex filters are baked into the export to ensure a seam
 *   **Cloudstream** (`com.lagradost.cloudstream3`) – Modular media streaming engine.
 *   **Coffee** (`com.github.muellerma.coffee`) – Quick settings tile to keep the screen awake.
 *   **DAVx⁵** (`at.bitfire.davdroid`) – CalDAV/CardDAV sync client for contacts and calendars.
-*   **Delta** (`website.leifs.delta.fossdc`) – Pastel icon pack (FOSS build).
+*   **Delta** (`website.leifs.delta.fossdc`) – Pastel icon pack.
 *   **Delta Breezy Weather Icon Pack** (`website.leifs.delta.breezyweather`) – Weather icons matched for Breezy Weather.
 *   **Etar Calendar** (`ws.xsoh.etar`) – Lightweight open-source calendar app.
 *   **Fastmail** (`com.fastmail.app`) – Email client wrapper with push notification support.
 *   **FUTO Keyboard** (`org.futo.inputmethod.latin`) – Keyboard with fully offline swipe typing and voice dictation.
 *   **Gadgetbridge** (`nodomain.freeyourgadget.gadgetbridge`) – Offline health and fitness tracker companion for wearables.
 *   **Global Icon Pack** (`com.richardluo.globalIconPack`) – System-wide icon routing framework (requires root).
-*   **Google Messages** (`com.google.android.apps.messaging`) – Stock app for SMS and RCS text messaging.
+*   **Google Messages** (`com.google.android.apps.messaging`) – Stock app for RCS text messaging.
 *   **Home Assistant** (`io.homeassistant.companion.android`) – Smart home automation control dashboard.
 *   **Immich** (`app.alextran.immich`) – Self-hosted photo and video backup client.
 *   **jtx Board** (`at.techbee.jtx`) – V Journal-compatible diary, notes, and task board.
-*   **Keyguard** (`com.artemchep.keyguard`) – Lightweight native client for Bitwarden password autofill.
+*   **Keyguard** (`com.artemchep.keyguard`) – Lightweight native client for Bitwarden.
 *   **LibreTube** (`com.github.libretube`) – Alternative YouTube frontend built to bypass tracking.
 *   **Magisk** (`com.topjohnwu.magisk`) – Open-source root manager and su provider.
 *   **microG Services** (`com.google.android.gms`) – FOSS framework for sandboxed Google services and push notifications.
 *   **MiXplorer** (`com.mixplorer.beta`) – Advanced file manager with network and root access options.
 *   **MpvEx** (`app.marlboroadvance.mpvex`) – Gesture-based video player using the MPV core.
 *   **Nagram X** (`nu.gpu.nagram`) – Advanced Telegram client frontend with enhanced privacy modifications.
-*   **ObtainX** (`dev.bikram.obtainx`) – App updater that scrapes GitHub releases and sideloads APKs.
+*   **ObtainX** (`dev.bikram.obtainx`) – App installer  that scrapes GitHub and other sources and sideloads APKs.
 *   **PrivateDNSAndroid** (`ru.karasevm.privatednstoggle`) – Quick settings tile to quickly switch private DNS servers.
