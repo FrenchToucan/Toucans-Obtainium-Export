@@ -1,21 +1,42 @@
-This repo contains my ever-evolving ObtainX export.
+This repository contains my ever-evolving ObtainX configuration export. I have completely revamped this list to double down on open-source and providing only what I think is the best app in the role right now.
 
+## Setup Instructions
 
-#### Steps
+1. Download the `obtainx-export.json` file from this repository.
+2. Install **ObtainX** directly from GitHub: [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX).
+3. Open ObtainX and go to **Backup** -> **ObtainX import**.
+4. Choose the `obtainx-export.json` file.
+5. **(Recommended):** Add your GitHub Personal Access Token in **Settings** -> **GitHub PAT** to avoid API rate limiting.
 
-Manual Method
-1. Download obtainx-export.json from this repo.
-2. Install ObtainX from GitHub: https://github.com/bikram-agarwal/ObtainX
-3. Open ObtainX.
-4. Go to **Backup** (bottom menu).
-5. Select **ObtainX Import**.
-6. Choose the `obtainium-export.json` file.
-7. (Recommended) Go to **Settings** and add your GitHub Personal Access Token in the **SGitHub PAT** field. Otherwise you'll be rate limited pretty much immediately.
+---
 
-I've removed many apps that I have stopped using in favor of other apps and I've doubled down on open source only (with a few exceptions you will see).
+## App Inventory & Functions
 
-Apps
-2FA:: Aegis
-Passwords: Keyguard (Bitwarden client)
-Play Store: Aurora Store
-
+*   **Aegis** (`com.beemdevelopment.aegis`) – 2FA token generator with local encrypted backups.
+*   **AntennaPod** (`de.danoeh.antennapod`) – Podcast player and subscription manager.
+*   **Arcticons** (`com.donnnno.arcticons`) – Monochromatic line-art icon pack.
+*   **Aurora Store** (`com.aurora.store`) – Play Store client for anonymous app downloads.
+*   **Breezy Weather** (`org.breezyweather`) – Material You weather app using open data sources.
+*   **CAPod** (`eu.darken.capod`) – Earbud status monitor for AirPods and alternatives.
+*   **Cloudstream** (`com.lagradost.cloudstream3`) – Modular media streaming engine.
+*   **Coffee** (`com.github.muellerma.coffee`) – Quick settings tile to keep the screen awake.
+*   **DAVx⁵** (`at.bitfire.davdroid`) – CalDAV/CardDAV sync client for contacts and calendars.
+*   **Delta** (`website.leifs.delta.fossdc`) – Pastel icon pack (FOSS build).
+*   **Delta Breezy Weather Icon Pack** (`website.leifs.delta.breezyweather`) – Weather icons matched for Breezy Weather.
+*   **Etar Calendar** (`ws.xsoh.etar`) – Lightweight open-source calendar app.
+*   **Fastmail** (`com.fastmail.app`) – Email client wrapper with push notification support.
+*   **FUTO Keyboard** (`org.futo.inputmethod.latin`) – Keyboard with fully offline swipe typing and voice dictation.
+*   **Gadgetbridge** (`nodomain.freeyourgadget.gadgetbridge`) – Offline health and fitness tracker companion for wearables.
+*   **Global Icon Pack** (`com.richardluo.globalIconPack`) – System-wide icon routing framework (requires root).
+*   **Google Messages** (`com.google.android.apps.messaging`) – Stock app for SMS and RCS text messaging.
+*   **Home Assistant** (`io.homeassistant.companion.android`) – Smart home automation control dashboard.
+*   **Immich** (`app.alextran.immich`) – Self-hosted photo and video backup client.
+*   **jtx Board** (`at.techbee.jtx`) – V Journal-compatible diary, notes, and task board.
+*   **Keyguard** (`com.artemchep.keyguard`) – Lightweight native client for Bitwarden password autofill.
+*   **LibreTube** (`com.github.libretube`) – Alternative YouTube frontend built to bypass tracking.
+*   **Magisk** (`com.topjohnwu.magisk`) – Open-source root manager and su provider.
+*   **microG Services** (`com.google.android.gms`) – FOSS framework for sandboxed Google services and push notifications.
+*   **MiXplorer** (`com.mixplorer.beta`) – Advanced file manager with network and root access options.
+*   **MpvEx** (`app.marlboroadvance.mpvex`) – Gesture-based video player using the MPV core.
+*   **ObtainX** (`dev.bikram.obtainx`) – App updater that scrapes GitHub and other sources and sideloads APKs.
+*   **PrivateDNSAndroid** (`ru.karasevm.privatednstoggle`) – Quick settings tile to quickly switch private DNS servers.
