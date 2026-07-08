@@ -1,4 +1,4 @@
-This repository contains my ever-evolving ObtainX export. I have completely revamped this list to focus on keeping only what I consider th beset app for each role. 
+This repository contains my ever-evolving ObtainX export. I have completely revamped this list to focus on keeping only what I consider the best app for each role. 
 
 Where necessary, custom regex filters are baked into the export to ensure a seamless, one-touch install/update experience—no manual choosing between multiple architecture variants or build flavors. Installing the apps from this list will provide a fully functioning, standalone Android experience on GrapheneOS or LineageOS.
 
