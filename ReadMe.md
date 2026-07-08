@@ -1,12 +1,14 @@
-This repository contains my ever-evolving ObtainX configuration export. I have completely revamped this list to double down on open-source and providing only what I think is the best app in the role right now. Installing just the apps on this list will give you a fully functioning Android experience whether on GrapheneOS or LineageOS (or a child of LineageOS). 
+This repository contains my ever-evolving ObtainX configuration export. I have completely revamped this list to focus on keeping only what I consider th beset app for each role. 
+
+Where necessary, custom regex filters are baked into the export to ensure a seamless, one-touch install/update experience—no manual choosing between multiple architecture variants or build flavors. Installing the apps from this list will provide a fully functioning, standalone Android experience on GrapheneOS or LineageOS.
 
 ## Setup Instructions
 
 1. Download the `obtainx-export.json` file from this repository.
 2. Install **ObtainX** directly from GitHub: [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX).
 3. Open ObtainX and go to **Backup** -> **ObtainX import**.
-4. Choose the `obtainx-export.json` file.
-5. **(Recommended):** Add your GitHub Personal Access Token in **Settings** -> **GitHub PAT** to avoid API rate limiting.
+4. Choose your downloaded `obtainx-export.json` file.
+5. **(Recommended):** Add your GitHub Personal Access Token in **Settings** -> **GitHub PAT** to prevent API rate limiting.
 
 ---
 
@@ -38,5 +40,6 @@ This repository contains my ever-evolving ObtainX configuration export. I have c
 *   **microG Services** (`com.google.android.gms`) – FOSS framework for sandboxed Google services and push notifications.
 *   **MiXplorer** (`com.mixplorer.beta`) – Advanced file manager with network and root access options.
 *   **MpvEx** (`app.marlboroadvance.mpvex`) – Gesture-based video player using the MPV core.
-*   **ObtainX** (`dev.bikram.obtainx`) – App updater that scrapes GitHub and other sources and sideloads APKs.
+*   **Nagram X** (`nu.gpu.nagram`) – Advanced Telegram client frontend with enhanced privacy modifications.
+*   **ObtainX** (`dev.bikram.obtainx`) – App updater that scrapes GitHub releases and sideloads APKs.
 *   **PrivateDNSAndroid** (`ru.karasevm.privatednstoggle`) – Quick settings tile to quickly switch private DNS servers.
